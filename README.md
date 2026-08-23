@@ -82,4 +82,4 @@ Email: [xs1113@stu.ahjzu.edu.cn](mailto:xs1113@stu.ahjzu.edu.cn)
 
 **Article title**: Steel Surface Defect Detection Based on Dynamic Receptive Field and Multi-Scale Features Fusion
 
-**Submitted journal**: The Visual Computer
+**Submitted journal**: Scientific Reports
